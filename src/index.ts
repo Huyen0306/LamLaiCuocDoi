@@ -1,2 +1,2 @@
-const name: string = 'Dư Thanh Được'
+const name: string = 'Nguyễn Thị Huyền'
 console.log(name)
